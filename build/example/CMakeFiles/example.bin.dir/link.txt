@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/example.bin.dir/example.cpp.o  -o example.bin  -Wl,-rpath,/Users/u-mbp/Documents/GitHub/mnn2mem/build/3rdparty/MNN -Wl,-all_load ../3rdparty/MNN/libMNN.dylib -Wl,-noall_load 
