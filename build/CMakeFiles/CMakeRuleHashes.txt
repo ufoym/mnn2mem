@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+6cce1181331da1a15512d8e7ffa53842 ../3rdparty/MNN/include/MNN/VCS.h
+15ac34c2ae2c075eede20d3393ff6f58 3rdparty/MNN/CMakeFiles/GenVCSHDR
+118cb37052fb6fa6950ab7c60741bef4 3rdparty/MNN/flatbuffers-build/samples/monster_generated.h
+25e6a49461b3cf0db7928dc5b43995d1 3rdparty/MNN/flatbuffers-build/tests/monster_test_generated.h

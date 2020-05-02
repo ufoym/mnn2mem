@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/u-mbp/Documents/GitHub/mnn2mem/3rdparty/MNN/source/backend/cpu/x86_x64/sse/CommonOptFunction.cpp
+emmintrin.h
+-
+
+/Users/u-mbp/Documents/GitHub/mnn2mem/3rdparty/MNN/source/backend/cpu/x86_x64/sse/MNNConvSlideWindowBorder.cpp
+emmintrin.h
+-
+stdint.h
+-
+
+/Users/u-mbp/Documents/GitHub/mnn2mem/3rdparty/MNN/source/backend/cpu/x86_x64/sse/MNNConvSlideWindowMiddle.cpp
+emmintrin.h
+-
+stdint.h
+-
+
+/Users/u-mbp/Documents/GitHub/mnn2mem/3rdparty/MNN/source/backend/cpu/x86_x64/sse/MNNGemmFloatCommon_4.cpp
+emmintrin.h
+-
+stdint.h
+-
+
+/Users/u-mbp/Documents/GitHub/mnn2mem/3rdparty/MNN/source/backend/cpu/x86_x64/sse/MNNMatrixAdd.cpp
+emmintrin.h
+-
+stdint.h
+-
+
+/Users/u-mbp/Documents/GitHub/mnn2mem/3rdparty/MNN/source/backend/cpu/x86_x64/sse/MNNMatrixSub.cpp
+emmintrin.h
+-
+stdint.h
+-
+

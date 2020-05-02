@@ -1,0 +1,2 @@
+/Users/u-mbp/Documents/GitHub/mnn2mem/install/bin/mnn2mem.bin
+/Users/u-mbp/Documents/GitHub/mnn2mem/install/bin/example.bin

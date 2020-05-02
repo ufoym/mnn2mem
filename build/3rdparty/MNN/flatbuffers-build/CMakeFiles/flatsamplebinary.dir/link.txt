@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -std=c++11 -stdlib=libc++ -Wall -pedantic -Werror -Wextra -Wno-unused-parameter -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/flatsamplebinary.dir/samples/sample_binary.cpp.o  -o flatsamplebinary 
